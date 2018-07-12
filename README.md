@@ -4,15 +4,17 @@ PegasusTeam was founded in 2015. We focus on WLAN security and Wi-Fi Pentesting.
 ## articles
 
 #### 2018
-- 1月
-    - 拒绝成为免费劳动力：检测含有挖矿脚本的WiFi热点
-http://www.freebuf.com/web/161010.html
+- 5月
+    - DEFCON CHINA议题解读 | SmartCfg无线配网方案安全分析
+https://www.anquanke.com/post/id/144865
+    - HITB议题-Ghost Tunnel：适用于隔离网络的WiFi隐蔽传输通道
+http://www.freebuf.com/articles/wireless/171108.html
 - 3月
     - 解密古老又通杀的路由器攻击手法：从嗅探PPPoE到隐蔽性后门
 http://www.freebuf.com/articles/wireless/163480.html
-- 5月
-    - HITB议题-Ghost Tunnel：适用于隔离网络的WiFi隐蔽传输通道
-http://www.freebuf.com/articles/wireless/171108.html
+- 1月
+    - 拒绝成为免费劳动力：检测含有挖矿脚本的WiFi热点
+http://www.freebuf.com/web/161010.html
 #### 2017:
 - 4月
     - NSA泄露黑客工具之 FuzzBunch & DanderSpritz 分析
